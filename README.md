@@ -12,8 +12,8 @@ Sou fascinado por aprender novas tecnologias e frameworks/linguagens, estou semp
 
 
 <div><br>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBennesby&include_all_commits=true&hide=contribs,prs,issues&show_icons=true&theme=react&custom_title=Minhas%20estat%C3%ADsticas%20no%20Github&locale=pt-br&count_private=true">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBennesby&custom_title=Minhas%20linguagens%20mais%20usadas&theme=react&layout=compact">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedroBennesby&include_all_commits=true&hide=contribs,prs,issues&show_icons=true&theme=react&custom_title=Minhas%20estat%C3%ADsticas%20no%20Github&locale=pt-br&count_private=true">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBennesby&custom_title=Minhas%20linguagens%20mais%20usadas&theme=react&layout=compact">
   </div>
   
   
