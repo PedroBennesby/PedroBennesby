@@ -10,12 +10,33 @@ Sou fascinado por aprender novas tecnologias e frameworks/linguagens, estou semp
 - 👨🏽‍💻 Full-stack developer na [Ravex](https://ravex.com.br)
 - 📚 Estudando React/Next.js e Node/Express/MongoDB
 
-Fale comigo 👇🏾
 
-[![Twitter Badge](https://img.shields.io/badge/-@pedrobennesby-6495ED?style=flat-square&labelColor=6495ED&logo=twitter&logoColor=white&link=https://twitter.com/pedrobennesby)](https://twitter.com/pedrobennesby) [![LinkedIn Badge](https://img.shields.io/badge/-Pedro%20Bennesby-6495ED?style=flat-square&labelColor=6495ED&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pedrobennesby)](https://www.linkedin.com/in/pedrobennesby) [![Instagram Badge](https://img.shields.io/badge/-@pedrobennesby-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://www.instagram.com/pedrobennesby)](https://www.instagram.com/pedrobennesby)
-
-
-
-
-![Minhas estatísticas no Github](https://github-readme-stats.vercel.app/api?username=PedroBennesby&include_all_commits=true&hide=contribs,prs,issues&show_icons=true&theme=react&custom_title=Minhas%20estat%C3%ADsticas%20no%20Github&locale=en)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBennesby&custom_title=Minhas%20linguagens%20mais%20usadas&theme=react&card_width=495)
+<div><br>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroBennesby&include_all_commits=true&hide=contribs,prs,issues&show_icons=true&theme=react&custom_title=Minhas%20estat%C3%ADsticas%20no%20Github&locale=pt-br&count_private=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBennesby&custom_title=Minhas%20linguagens%20mais%20usadas&theme=react&layout=compact">
+  </div>
+  
+  
+  
+<div style="display: inline_block"><br>
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=e6e6e6">
+    <img align="center" height="30" width="40" src="https://icongr.am/devicon/dot-net-original.svg?size=128&color=e6e6e6">
+ </div>
+    
+   ##
+    
+<div> 
+  <a href="https://instagram.com/pedrobennesby" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:pedrobennesby@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedrobennesby" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/PedroBennesby/PedroBennesby/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
