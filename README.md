@@ -1,13 +1,13 @@
 # Olá 👋🏽
 
-Meu nome é Pedro, eu sou um desenvolvedor especializado em front e com uma paixão gigantesca por CSS. Trabalho como Full-stack desde 2020. 👨🏽‍💻
+Meu nome é Pedro, eu sou um desenvolvedor especializado em front e com uma paixão gigantesca por CSS. Trabalho como Front-end desde 2020. 👨🏽‍💻
 
 Sou fascinado por aprender novas tecnologias e frameworks/linguagens, estou sempre aberto a novos desafios e mudanças.
 
 ### 🌎  "Work smarter not harder"  🧠
 
 - 📍 Itapema - SC
-- 👨🏽‍💻 Full-stack developer na [Ravex](https://ravex.com.br)
+- 👨🏽‍💻 Front-end developer na [JBQ.Global](https://jbq.com.br)
 - 📚 Estudando React/Next.js e Node/Express/MongoDB
 
 
