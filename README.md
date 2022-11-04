@@ -1,14 +1,14 @@
-# Olá 👋🏽
+# Hi 👋🏽
 
-Meu nome é Pedro, eu sou um desenvolvedor especializado em front e com uma paixão gigantesca por CSS. Trabalho como Front-end desde 2020. 👨🏽‍💻
+Hi, my name is Pedro, I am a Software developer specialized in front end. 👨🏽‍💻
 
-Sou fascinado por aprender novas tecnologias e frameworks/linguagens, estou sempre aberto a novos desafios e mudanças.
+I'm fascinated in learning new technologies and frameworks and I'm always open to new challenges.
 
 ### 🌎  "Work smarter not harder"  🧠
 
-- 📍 Itapema - SC
-- 👨🏽‍💻 Front-end developer na [JBQ.Global](https://jbq.com.br)
-- 📚 Estudando React/Next.js e Node/Express/MongoDB
+- 📍 Itapema, Brazil
+- 👨🏽‍💻 Full stack developer at [Jobsity](https://jobsity.com)
+- 📚 Studying React Native, Next.js and Node/Express/MongoDB
 
 
 <div><br>
